@@ -1,0 +1,79 @@
+issue,column,count,dtype,source_file
+missing_values,TotalCharges,11,,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,customerID,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,gender,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,SeniorCitizen,0,int64,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,Partner,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,Dependents,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,tenure,0,int64,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,PhoneService,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,MultipleLines,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,InternetService,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,OnlineSecurity,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,OnlineBackup,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,DeviceProtection,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,TechSupport,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,StreamingTV,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,StreamingMovies,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,Contract,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,PaperlessBilling,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,PaymentMethod,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,MonthlyCharges,0,float64,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,TotalCharges,0,float64,WA_Fn-UseC_-Telco-Customer-Churn.csv
+dtype,Churn,0,object,WA_Fn-UseC_-Telco-Customer-Churn.csv
+missing_values,Churn Category,3104,,dataset.csv
+missing_values,Churn Reason,3104,,dataset.csv
+missing_values,Internet Type,886,,dataset.csv
+missing_values,Offer,2324,,dataset.csv
+dtype,Age,0,int64,dataset.csv
+dtype,Avg Monthly GB Download,0,int64,dataset.csv
+dtype,Avg Monthly Long Distance Charges,0,float64,dataset.csv
+dtype,Churn,0,int64,dataset.csv
+dtype,Churn Category,0,object,dataset.csv
+dtype,Churn Reason,0,object,dataset.csv
+dtype,Churn Score,0,int64,dataset.csv
+dtype,City,0,object,dataset.csv
+dtype,CLTV,0,int64,dataset.csv
+dtype,Contract,0,object,dataset.csv
+dtype,Country,0,object,dataset.csv
+dtype,Customer ID,0,object,dataset.csv
+dtype,Customer Status,0,object,dataset.csv
+dtype,Dependents,0,int64,dataset.csv
+dtype,Device Protection Plan,0,int64,dataset.csv
+dtype,Gender,0,object,dataset.csv
+dtype,Internet Service,0,int64,dataset.csv
+dtype,Internet Type,0,object,dataset.csv
+dtype,Lat Long,0,object,dataset.csv
+dtype,Latitude,0,float64,dataset.csv
+dtype,Longitude,0,float64,dataset.csv
+dtype,Married,0,int64,dataset.csv
+dtype,Monthly Charge,0,float64,dataset.csv
+dtype,Multiple Lines,0,int64,dataset.csv
+dtype,Number of Dependents,0,int64,dataset.csv
+dtype,Number of Referrals,0,int64,dataset.csv
+dtype,Offer,0,object,dataset.csv
+dtype,Online Backup,0,int64,dataset.csv
+dtype,Online Security,0,int64,dataset.csv
+dtype,Paperless Billing,0,int64,dataset.csv
+dtype,Partner,0,int64,dataset.csv
+dtype,Payment Method,0,object,dataset.csv
+dtype,Phone Service,0,int64,dataset.csv
+dtype,Population,0,int64,dataset.csv
+dtype,Premium Tech Support,0,int64,dataset.csv
+dtype,Quarter,0,object,dataset.csv
+dtype,Referred a Friend,0,int64,dataset.csv
+dtype,Satisfaction Score,0,int64,dataset.csv
+dtype,Senior Citizen,0,int64,dataset.csv
+dtype,State,0,object,dataset.csv
+dtype,Streaming Movies,0,int64,dataset.csv
+dtype,Streaming Music,0,int64,dataset.csv
+dtype,Streaming TV,0,int64,dataset.csv
+dtype,Tenure in Months,0,int64,dataset.csv
+dtype,Total Charges,0,float64,dataset.csv
+dtype,Total Extra Data Charges,0,int64,dataset.csv
+dtype,Total Long Distance Charges,0,float64,dataset.csv
+dtype,Total Refunds,0,float64,dataset.csv
+dtype,Total Revenue,0,float64,dataset.csv
+dtype,Under 30,0,int64,dataset.csv
+dtype,Unlimited Data,0,int64,dataset.csv
+dtype,Zip Code,0,int64,dataset.csv
